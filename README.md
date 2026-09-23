@@ -54,12 +54,12 @@ A **tuned Random Forest** performed best of the four.
 
 ## My contribution
 
-**V Rahul Chowdary (20MID0018)** — one of four team members. My work was on the data
+**Rahul Vajja (20MID0018)** — one of four team members. My work was on the data
 preparation and the Tableau analysis: combining the trip files into a single extract,
 cleaning and engineering the fields used for the visual analysis, and building the
 worksheets above.
 
-Full team: Kanugo Krishna Ganesh, Yenigandla Venislaus Ashish, V Rahul Chowdary,
+Full team: Kanugo Krishna Ganesh, Yenigandla Venislaus Ashish, Rahul Vajja,
 Akash Kulkarni.
 
 ## Honest notes
